@@ -23,7 +23,7 @@ const About = () => {
             <article className='about_card'>
               <TbAward className="about_icon"></TbAward>
               <h5>Experience</h5>
-              <small>3+ Years Self-study</small>
+              <small>2+ Years Self-study</small>
             </article>
             
             <article className='about_card'>
@@ -40,11 +40,11 @@ const About = () => {
           </div>
           
           <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci delectus reprehenderit atque nulla reiciendis minus, 
-              debitis soluta? Impedit cumque exercitationem dolorem, corporis ad corrupti inventore, vel itaque delectus, accusamus pariatur?
-            </p>
+            Highly organized and detail-oriented honors graduate from Le Quy Don Highschool seeking an entry-level position as an developer. 
+            Served as a peer tutor for courses such as front-end developer or cyber engineering.
+          </p>
 
-            <a href="#contact" className='btn btn-primary'>Let's talk</a>
+          <a href="#contact" className='btn btn-primary'>Let's talk</a>
         </div>
       </div>
     </section>
